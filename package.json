@@ -1,0 +1,25 @@
+{
+  "name": "munomicweb",
+  "version": "1.0.0",
+  "description": "Munomic Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelmun/Munomic.git"
+  },
+  "keywords": [
+    "Munomic"
+  ],
+  "author": "Munomic, LLC.",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/raphaelmun/Munomic/issues"
+  },
+  "homepage": "https://github.com/raphaelmun/Munomic#readme",
+  "dependencies": {
+    "webwebweb": "^1.4.11"
+  }
+}
